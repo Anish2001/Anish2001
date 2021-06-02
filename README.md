@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Anish2001
+- 👋 Hi, I’m Anish Adhikari.
 - 👀 I’m interested in Coding and explore new Knowledge.
-- 🌱 I’m currently learning Computer Science
-- 💞
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer Science.
 
 <!---
 Anish2001/Anish2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
